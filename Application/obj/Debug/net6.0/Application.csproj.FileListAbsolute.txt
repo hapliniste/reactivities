@@ -1,0 +1,17 @@
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Application.deps.json
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Application.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Application.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Domain.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Persistance.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Persistance.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\bin\Debug\net6.0\Domain.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\refint\Application.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\Application.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Application\obj\Debug\net6.0\ref\Application.dll

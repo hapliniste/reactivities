@@ -1,0 +1,12 @@
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\bin\Debug\net6.0\Domain.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll

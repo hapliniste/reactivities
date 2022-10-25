@@ -1,0 +1,15 @@
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\bin\Debug\net6.0\Persistance.deps.json
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\bin\Debug\net6.0\Persistance.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\bin\Debug\net6.0\Persistance.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\bin\Debug\net6.0\Domain.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\bin\Debug\net6.0\Domain.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\Persistance.pdb
+\\ne.ch\dfs\home1\JacquierA\Mes documents\Code\reactivities\Persistance\obj\Debug\net6.0\ref\Persistance.dll

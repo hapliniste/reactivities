@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\API\\API.csproj": {}
+  },
+  "projects": {
+    "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\jacquiera\\.nuget\\packages\\",
+        "outputPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jacquiera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\Application.csproj": {
+                "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jacquiera\\.nuget\\packages\\",
+        "outputPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jacquiera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj"
+              },
+              "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\Persistance.csproj": {
+                "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jacquiera\\.nuget\\packages\\",
+        "outputPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jacquiera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\jacquiera\\.nuget\\packages\\",
+        "outputPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jacquiera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\ne.ch\\dfs\\home1\\JacquierA\\Mes documents\\Code\\reactivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
